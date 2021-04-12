@@ -2,9 +2,8 @@
 
 \# | Title | Solution | Difficulty | DSA Type
 --- | --- | --- | --- | ---
-1 | Two Sum | Java | Easy | HashMap
-
-
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Java | Easy | HashMap
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Java | Medium | Elementary Math
+3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Java | Medium | HashMap
+4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Java | Hard | Elementary Math
+5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Java | Medium | Iterative Brute Force

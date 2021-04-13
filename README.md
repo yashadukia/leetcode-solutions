@@ -1,5 +1,11 @@
 # leetcode-solutions
 
+Hello,
+
+Below is a list of Leetcode solutions in Java. Most of these solutions are written by myself while preparing for my job interviews.
+All solutions are purely in Java. I will try to post the Time and Space complexity of each solution along with well commented code as much as possible.
+It took me several months to studying and preparing to code these up. Feel free to use them for reference and hope this helps you in your preparation.
+
 \# | Title | Solution | Difficulty | DSA Type
 --- | --- | --- | --- | ---
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/0001_E_Two_Sum.java) | Easy | HashMap

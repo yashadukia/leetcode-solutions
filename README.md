@@ -14,6 +14,6 @@
 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/0012_M_Integer_to_Roman.java) | Medium | xxx
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/0013_E_Roman_to_Integer.java) | Easy | xxx
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/0014_E_Longest_Common_Prefix.java) | Easy | xxx
-15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/0015_M_ 3Sum.java) | Medium | xxx
+15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/0015_M_3Sum.java) | Medium | xxx
 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/0016_M_3Sum_Closest.java) | Medium | xxx
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/0017_M_Letter_Combinations_of_a_Phone_Number.java) | Medium | xxx

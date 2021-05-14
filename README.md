@@ -2,9 +2,9 @@
 
 Hello,
 
-Below is a list of Leetcode solutions in Java. Most of these solutions are written by myself while preparing for my job interviews.
+Below is a list of Leetcode solutions in Java. Most of these solutions are written by me while preparing for my job interviews.
 All solutions are purely in Java. I will try to post the Time and Space complexity of each solution along with well commented code as much as possible.
-It took me several months to studying and preparing to code these up. Feel free to use them for reference and hope this helps you in your preparation.
+It took me several months to studying and preparing to code these up. I finally got an offer and posting all my solutions hoping this helps you in your preparation so feel free to use them for reference. Good luck!
 
 \# | Title | Solution | Difficulty | DSA Type
 --- | --- | --- | --- | ---

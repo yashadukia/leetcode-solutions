@@ -48,7 +48,7 @@ It took me several months to studying and preparing to code these up. I finally 
 46 | [Permutations](https://leetcode.com/problems/permutations) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/46_M_Permutations.java) | M | ---
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/48_M_Rotate_Image.java) | M | ---
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/49_M_Group_Anagrams.java) | M | ---
-50 | [Pow(x, n)](https://leetcode.com/problems/pow(x,-n)) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/50_M_Pow(x,_n).java) | M | ---
+50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/50_M_Pow(x,_n).java) | M | ---
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/53_E_Maximum_Subarray.java) | E | ---
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/54_M_Spiral_Matrix.java) | M | ---
 55 | [Jump Game](https://leetcode.com/problems/jump-game) | [Java](https://github.com/yashadukia/leetcode-solutions/blob/main/Java/55_M_Jump_Game.java) | M | ---
